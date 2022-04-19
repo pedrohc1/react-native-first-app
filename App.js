@@ -21,7 +21,7 @@ export default function App() {
 		return <AppLoading />;
 	}
 	return (
-		<SafeAreaView>
+		<SafeAreaView style={{ flex: 1 }}>
 			<Cesta {...mock} />
 			<StatusBar style="auto" />
 		</SafeAreaView>

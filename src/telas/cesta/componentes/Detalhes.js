@@ -69,6 +69,7 @@ const estilos = StyleSheet.create({
 		marginTop: 16,
 		backgroundColor: "#2A9F85",
 		paddingVertical: 16,
+		marginHorizontal: 10,
 		borderRadius: 6,
 	},
 	textoBotao: {

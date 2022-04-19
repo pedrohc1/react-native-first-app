@@ -4,6 +4,7 @@ import { Image, StyleSheet, Dimensions } from "react-native";
 import topo from "../../../../assets/topo.png";
 
 import Texto from "../../../componentes/Texto";
+import Item from "./Item";
 
 const width = Dimensions.get("screen").width;
 
